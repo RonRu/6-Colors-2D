@@ -1,0 +1,129 @@
+﻿  Board.cpp
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(203,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(203,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(204,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(204,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(205,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(205,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(206,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(206,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(215,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(215,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(216,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(216,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(217,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(217,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(218,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(218,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(277,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Button.cpp
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Button.cpp(67,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Button.cpp(67,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  ComputerPlayer.cpp
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\ComputerPlayer.cpp(64,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Controller.cpp
+  GameResources.cpp
+  HumanPlayer.cpp
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\HumanPlayer.cpp(39,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  MessageBox.cpp
+  Player.cpp
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Player.cpp(21,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Shape.cpp
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(32,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Square.cpp
+  ToolBar.cpp
+  Triangle.cpp
+  Generating Code...
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\ToolBar.cpp(24): warning C4715: 'ToolBar::getButtonPressed': not all control paths return a value
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(135): warning C4715: 'Shape::getRandomColor': not all control paths return a value
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(123): warning C4172: returning address of local variable or temporary
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(125): warning C4172: returning address of local variable or temporary
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(127): warning C4172: returning address of local variable or temporary
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(129): warning C4172: returning address of local variable or temporary
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(131): warning C4172: returning address of local variable or temporary
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Shape.cpp(133): warning C4172: returning address of local variable or temporary
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\HumanPlayer.cpp(42): warning C4715: 'HumanPlayer::getOwnCell': not all control paths return a value
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\ComputerPlayer.cpp(67): warning C4715: 'ComputerPlayer::getOwnCell': not all control paths return a value
+C:\Users\ronru\Desktop\GAMES\6-Colors\ex4_RimaRonen_RonRubin\Board.cpp(256): warning C4715: 'Board::getGamebleShape': not all control paths return a value
+  ex4_RimaRonen_RonRubin.vcxproj -> C:\Users\ronru\Desktop\GAMES\6-Colors\x64\Debug\ex4_RimaRonen_RonRubin.exe
