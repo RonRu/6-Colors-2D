@@ -1,7 +1,7 @@
 # 6-Colors-2D_game
 The familiar game Six Colors was develop as project in OOP course, 
 
-Develop by Ron Rubin and [Rima Ronen](https://github.com/rimaronen)
+Develop by [Ron Rubin](https://github.com/RonRu) and [Rima Ronen](https://github.com/rimaronen)
 <h2> Introduction </h2>
 
 
